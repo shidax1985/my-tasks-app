@@ -10,6 +10,11 @@
       "StackName": "amplify-mytasksapp-dev-e2cfc",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:650251729461:stack/amplify-mytasksapp-dev-e2cfc/3ac1f810-ad89-11ef-9ad9-0a9928fe5dc3",
       "AmplifyAppId": "d84o0z4a79i9p"
+    },
+    "categories": {
+      "api": {
+        "mytasksapp": {}
+      }
     }
   }
 }
