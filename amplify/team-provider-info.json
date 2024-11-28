@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mytasksapp-dev-e2cfc-authRole",
+      "UnauthRoleArn": "arn:aws:iam::650251729461:role/amplify-mytasksapp-dev-e2cfc-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::650251729461:role/amplify-mytasksapp-dev-e2cfc-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-mytasksapp-dev-e2cfc-deployment",
+      "UnauthRoleName": "amplify-mytasksapp-dev-e2cfc-unauthRole",
+      "StackName": "amplify-mytasksapp-dev-e2cfc",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:650251729461:stack/amplify-mytasksapp-dev-e2cfc/3ac1f810-ad89-11ef-9ad9-0a9928fe5dc3",
+      "AmplifyAppId": "d84o0z4a79i9p"
+    }
+  }
+}
